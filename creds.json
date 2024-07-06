@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tzbot-428523",
+  "private_key_id": "fce1658fee2f4532f07605dcf8e7b22ef1d56636",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDc5zyUfSrYMZ6I\nl4kMxipd8fniAKtKMOrn2UJyt4UvNXK3NipEcdx+WSKRbW+EEr62Tkv1qxcMSTyB\ntCLDFEZld3kYBLU7eh3/g2U0vx8XArDkQmNzSdY7Q55hu7jJRppgRVXiRabsQy2F\nCmdsCc+q+ANp7I8+NXLPD0LyusK++IHOq09BegQsRR52Djv2+0aAq3JDHd+Y28GD\nijOUcHPbcJJIgC99ZrGuNWmGePL6Myf2JO9TjIqN7qamVhf9WCYA6GGbFCQEBkXv\nPfwffXitgP6WaHqc41TSLxUkc+GLm8ojZuiDemo9zSzfgYU7ioNAvusfUf71qDgR\n71af7J2BAgMBAAECggEAGqNr48AgTYfWRUR4y2iOLVwDtSQ9g6nYefLyF2FYFzRL\nzBolCLHuU/Itv/nBa9zS0Ksqb8qc8edW+5EcbAfi4VOB78qJjE2SloBi0PSHLEAv\n0qbK1Vk/E1B5JfH8O5FfBmL2E14w3ebP824owJeCSmy0BK75KxhI6v09JoYs+9hE\ncCM1T0XT21HxJn7JXSwSOenKIdvr18k3vZwVncF7LrDwLKLJmI5UI768LxRpy5cq\nWCm9s1j1HM9x+bp26lr7dtMD1BHhKzg1HP3LgpTVtYiXJ6Nwdur+jBszTJGqTYNa\n3hJ/uCKZBEtETOGO6xOKkvafTV1O2FBRHEleb7DmQQKBgQD3u+1yRuiZ6dD8FORp\n9kTFUFwf8S575IsvlV6kf3RbesHi0IdZ9HOkKmE1Ta+yKPfkTuNWFOtZiK3AShuf\n/RfWuKwYX9H4Rke8dIlGYdBs3Ib6m9a5mgHdDMrypmHVUW+u1IHq/+EG91huF2l9\nR83KmT7vqXsB/xWFjQNSS787yQKBgQDkRiDGtZlxvM7BBm7rLF0/6vTY28wGttbi\nwYGWNquJU11y4CX7bGGmy4zxNQqogaTNT9uZJQSfU01QLopUFU9QOlLPbpP8vG+2\n88sDJb4j30jWVHjwEP02oD6s8lRLjJ96NIPRmfCd2Edw30qq3fycdMyEjAJSp38/\neRVDCg0/+QKBgGInNUbnzVTeDQ0zgeRxzIGY+0c0mcRAotzxg5QNY56zHoqtMFN1\nxTOwDt+9rfUawkzU7MG4fB73RlA/jH5xGrbaaGUn4dtKjTWfvpwCOUBIh7pXcFYN\nLNvWK7rELVMFdwh/7hGb3B6UdZb487TNdD3nRcZTEgeSd4Z4fm5m0JfxAoGANSRi\nUwBJ5aGX3HX78oHUf6HaOHYK7HE6W3XDDk5R5tligvDNxtd3cFYozKqVfZ8Y17dE\nn0Vv6wuAjy8WgvanDT1Ws/XBO/A+bbAZzfTGbCF6GnN16CV8XXA2xxpvJ1tocRGy\nsmQNESIdl5hUEK03NtE2H5FcpRNbW1J78axwYzkCgYEA3rW9TPnXFC+vlkbey6v+\nZzUqStCVu4AGS08zUujZ0pR80oQMaA3vk2Fz3c6z63/rGlxDUfolW1cV8Y5bnJAO\n4ExDWbHhDP6HYxhjPYbkG24Ympm1+kou/O0cmQLMq8skPZoi+rHQKDLRmsmi3E2k\nwsd7G0LQL5NeH+bJMWNNfzQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tzbotserviceaccount@tzbot-428523.iam.gserviceaccount.com",
+  "client_id": "118007865217660946640",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tzbotserviceaccount%40tzbot-428523.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
